@@ -10,5 +10,3 @@ The main goal of this project is to predict heart disease using data modeling te
 * Python
 * Canva
 * Microsoft Word
-
-Notes: Project documented and and written in Bahasa Indonesia
